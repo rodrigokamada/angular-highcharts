@@ -385,4 +385,26 @@ Build at: 2021-09-09T01:25:33.291Z - Hash: 2495029c373d88bd55c1 - Time: 27953ms
 
 **8.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-highcharts/) and [Stackblitz](https://stackblitz.com/edit/angular-12-highcharts).
 
-![Angular Highcharts](docs/images/angular-highcharts.png)
+![Angular Highcharts](docs/images/angular-highcharts.gif)
+
+
+
+## Cloning the application
+
+**1.** Clone the repository.
+
+```shell
+git clone git@github.com:rodrigokamada/angular-highcharts.git
+```
+
+**2.** Install the dependencies.
+
+```shell
+npm ci
+```
+
+**3.** Run the application.
+
+```shell
+npm start
+```
