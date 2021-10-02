@@ -3,7 +3,7 @@
 
 Application example built with [Angular 12](https://angular.io/) and adding the charts using the [highcharts](https://www.npmjs.com/package/highcharts) library.
 
-This tutorial was posted on my [blog]() in portuguese and on the [DEV Community]() in english.
+This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-graficos-usando-a-biblioteca-highcharts-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-charts-using-the-highcharts-library-to-an-angular-application-2bbl) in english.
 
 
 
