@@ -1,7 +1,7 @@
 # Angular Highcharts
 
 
-Application example built with [Angular 12](https://angular.io/) and adding the charts using the [highcharts](https://www.npmjs.com/package/highcharts) library.
+Application example built with [Angular 13](https://angular.io/) and adding the charts using the [highcharts](https://www.npmjs.com/package/highcharts) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-graficos-usando-a-biblioteca-highcharts-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-charts-using-the-highcharts-library-to-an-angular-application-2bbl) in english.
 
@@ -385,7 +385,7 @@ Build at: 2021-09-09T01:25:33.291Z - Hash: 2495029c373d88bd55c1 - Time: 27953ms
 
 **8.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-highcharts/) and [Stackblitz](https://stackblitz.com/edit/angular-12-highcharts).
 
-![Angular Highcharts](docs/images/angular-highcharts.gif)
+![Angular Highcharts](https://res.cloudinary.com/rodrigokamada/image/upload/v1638101045/Blog/angular-highcharts/angular-highcharts.gif)
 
 
 
