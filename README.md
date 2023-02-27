@@ -384,7 +384,7 @@ Build at: 2021-09-09T01:25:33.291Z - Hash: 2495029c373d88bd55c1 - Time: 27953ms
 ✔ Compiled successfully.
 ```
 
-**8.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-highcharts/) and [Stackblitz](https://stackblitz.com/edit/angular14-highcharts).
+**8.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-highcharts/) and [Stackblitz](https://stackblitz.com/edit/angular15-highcharts).
 
 ![Angular Highcharts](https://res.cloudinary.com/rodrigokamada/image/upload/v1638101045/Blog/angular-highcharts/angular-highcharts.gif)
 
